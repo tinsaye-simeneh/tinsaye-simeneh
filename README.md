@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Tinsaye Simeneh</h1>
-<h3 align="center">A passionate frontend web developer and UI/UX Designer</h3>
+<h3 align="center">A passionate Frontend web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tinsaye-simeneh&label=Profile%20views&color=0e75b6&style=flat" alt="tinsaye-simeneh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tinsaye-simeneh" alt="tinsaye-simeneh" /></a> </p>
-
-- 🌱 I’m currently learning **many frontend frameworks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tinsaye-simeneh](https://github.com/tinsaye-simeneh)
 
-- 💬 Ask me about **HTML, CSS, react.js, Bootstrap**
+- 💬 Ask me about **HTML, CSS, Bootstrap, react.js**
 
 - 📫 How to reach me **tinsayesimeneh608@gmail.com**
 
@@ -18,6 +15,7 @@
 <a href="https://dev.to/tinsayesimeneh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tinsayesimeneh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tinsayesimeneh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tinsayesimeneh" height="30" width="40" /></a>
 <a href="https://medium.com/tinsaye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="tinsaye" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tinsayesimeneh" target="blank">Telegram</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,4 +26,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tinsaye-simeneh&show_icons=true&locale=en" alt="tinsaye-simeneh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tinsaye-simeneh&" alt="tinsaye-simeneh" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tinsaye-simeneh" alt="tinsaye-simeneh" /></a> </p>
 
