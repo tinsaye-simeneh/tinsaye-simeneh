@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tinsaye Simeneh</h1>
-<h3 align="center">A passionate Frontend web developer & UI/UX Designer</h3>
+<h3 align="center">Frontend Web Developer & UI/UX Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tinsaye-simeneh&label=Profile%20views&color=0e75b6&style=flat" alt="tinsaye-simeneh" /> </p>
 
@@ -7,7 +7,7 @@
 - 👨‍💻 All of my Coding projects are available at [https://github.com/tinsaye-simeneh](https://github.com/tinsaye-simeneh)
 - Some of my UI/UX Designing projects are available at [https://www.behance.net/tinsayesimeneh](https://www.behance.net/tinsayesimeneh)
 
-- 💬 Ask me about **C++, HTML, CSS, Bootstrap, react.js, Adobe Xd**
+- 💬 Ask me about **HTML | CSS | Bootstrap | react.js | C++ | Adobe Xd**
 
 - 📫 How to reach me **tinsayesimeneh608@gmail.com**
 
