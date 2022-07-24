@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tinsaye Simeneh</h1>
-<h3 align="center">A passionate Frontend web developer</h3>
+<h3 align="center">A passionate Frontend web developer & UI/UX Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tinsaye-simeneh&label=Profile%20views&color=0e75b6&style=flat" alt="tinsaye-simeneh" /> </p>
 
