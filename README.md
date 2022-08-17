@@ -1,6 +1,11 @@
 <h1 align="center">Hey 👋, I'm Tinsaye Simeneh</h1>
 <h3 align="center">Frontend Web Developer & UI/UX Designer</h3>
 
+## 🌐 About me:
+<p> Tinsaye is a Second year Electromechanical Engineering Student, Frontend Web Developer and UI/UX Designer with 2+ years of experience and He's deeply passionate about creating a Good and trusted product. He had Created many Website based Designing and Development projects and Programs. He is a self-motivated and hard-working individual who is always looking for new challenges and opportunities to grow and improve. 
+He's open to collaborate both as a Web developer & UI/UX Designer positions. Feel free to reach him out.
+</p>
+
 [![](https://visitcount.itsvg.in/api?id=tinsaye-simeneh&icon=4&color=8)](https://visitcount.itsvg.in)
 - 👨‍💻 All of my Coding projects are available at My [Github Profile](https://github.com/tinsaye-simeneh)<br>
 
