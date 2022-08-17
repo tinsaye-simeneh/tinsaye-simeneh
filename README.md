@@ -2,11 +2,11 @@
 <h3 align="center">Frontend Web Developer & UI/UX Designer</h3>
 
 [![](https://visitcount.itsvg.in/api?id=tinsaye-simeneh&icon=4&color=8)](https://visitcount.itsvg.in)
-- 👨‍💻 All of my Coding projects are available at [https://github.com/tinsaye-simeneh](https://github.com/tinsaye-simeneh)<br>
+- 👨‍💻 All of my Coding projects are available at [Github Profile](https://github.com/tinsaye-simeneh)<br>
 
-- Some of my UI/UX Designing projects are available at [https://www.behance.net/tinsayesimeneh](https://www.behance.net/tinsayesimeneh)<br>
+- Some of my UI/UX Designing projects are available at [Behance Profile](https://www.behance.net/tinsayesimeneh)<br>
 
-- 📫 How to reach me **tinsayesimeneh608@gmail.com**
+- 📫 Want to Collaborate? [Email Me](mailto:tinsayesimeneh608@gmail.com)<br>
 
 ## 🌐 Socials:
 
