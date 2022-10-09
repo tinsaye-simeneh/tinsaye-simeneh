@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Tinsaye S. Dessie</h1>
+<h1 align="center">Hey 👋, I'm Tinsaye Simeneh </h1>
 <h3 align="center">Frontend Web Developer & UI/UX Designer</h3>
 
 ## 🌐 About me:
