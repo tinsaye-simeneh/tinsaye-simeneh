@@ -13,7 +13,7 @@ I'm open to collaborate both as a Web developer & UI/UX Designer positions. Feel
 
 - 👜 Currently I'm working on my [Personal Projects on Reaclate](https://github.com/Reaclate)<br>
 
-- 🙋‍♂️ Want to Collaborate? [Email Me](mailto:tinsayesimeneh608@gmail.com)<br>
+- 🙋‍♂️ Want to Collaborate? [mail Me](mailto:tinsayesimeneh608@gmail.com)<br>
 
 ## 🌐 Socials:
 
