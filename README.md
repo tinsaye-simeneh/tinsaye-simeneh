@@ -2,8 +2,7 @@
 <h3 align="center">Frontend Web Developer & UI/UX Designer</h3>
 
 ## 🌐 About me:
-<p> I'm a 2nd year Electromechanical Engineering Student, Self Paced Frontend Web Developer and UI/UX Designer with 2+ years of experience and I'm deeply passionate about creating a Good and trusted product. I had Created many Website based Designing and Development projects and Programs.
-I'm open to collaborate both as a Web developer & UI/UX Designer positions. Feel free to reach me out.
+<p> I'm a 2nd year Electromechanical Engineering Student, Self Paced Frontend Web Developer and UI/UX Designer with 2+ years of experience and I'm deeply passionate about creating a Good and trusted product. I'm open to collaborate both as a Web developer & UI/UX Designer positions. Feel free to reach me out.
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=tinsaye-simeneh&icon=4&color=8)](https://visitcount.itsvg.in)
