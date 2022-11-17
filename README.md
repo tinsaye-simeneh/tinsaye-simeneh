@@ -2,7 +2,9 @@
 <h3 align="center">Frontend Web Developer & UI/UX Designer</h3>
 
 ## 🌐 About me:
-<p> I'm an Engineering Student, Self Paced Frontend Web Developer and UI/UX Designer with 2+ years of experience and I'm deeply passionate about creating a Good and trusted UI products. 
+<p> I’m a Frontend Web Developer, UI/UX Designer and Engineering Stundet.
+I'm passionate about creating a Good and trusted UI product. I
+I'm open to collaborate. Feel free to reach me out. 
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=tinsaye-simeneh&icon=4&color=8)](https://visitcount.itsvg.in)
