@@ -2,15 +2,13 @@
 <h3 align="center">Frontend Web Developer & UI/UX Designer</h3>
 
 ## 🌐 About me:
-<p> I'm Middler year of Electromechanical Engineering Student, Self Paced Frontend Web Developer and UI/UX Designer with 2+ years of experience and I'm deeply passionate about creating a Good and trusted product. I'm open to collaborate both as a Web developer & UI/UX Designer positions. Feel free to reach me out.
+<p> I'm an Engineering Student, Self Paced Frontend Web Developer and UI/UX Designer with 2+ years of experience and I'm deeply passionate about creating a Good and trusted UI products. 
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=tinsaye-simeneh&icon=4&color=8)](https://visitcount.itsvg.in)
 - 👨‍💻 All of my Coding projects are available at My [Github Profile](https://github.com/tinsaye-simeneh)<br>
 
 - 👜 Some of my UI/UX Designing projects are available at My [Behance Profile](https://www.behance.net/tinsayesimeneh)<br>
-
-- 👜 Currently I'm working on my [Personal Projects on Reaclate](https://github.com/Reaclate)<br>
 
 - 🙋‍♂️ Want to Collaborate? [mail Me](mailto:tinsayesimeneh608@gmail.com)<br>
 
