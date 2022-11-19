@@ -7,7 +7,6 @@ I'm passionate about creating a Good and trusted UI product. I
 I'm open to collaborate. Feel free to reach me out. 
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=tinsaye-simeneh&icon=4&color=8)](https://visitcount.itsvg.in)
 - 👨‍💻 All of my Coding projects are available at My [Github Profile](https://github.com/tinsaye-simeneh)<br>
 
 - 👜 Some of my UI/UX Designing projects are available at My [Behance Profile](https://www.behance.net/tinsayesimeneh)<br>
