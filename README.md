@@ -9,7 +9,7 @@ I'm open to collaborate. Feel free to reach me out.
 
 - 👨‍💻 All of my Coding projects are available at My [Github Profile](https://github.com/tinsaye-simeneh)<br>
 
-- 👜 Some of my UI/UX Designing projects are available at My [Behance Profile](https://www.behance.net/tinsayesimeneh)<br>
+- 👜 Some of My UI/UX Designing projects are available at My [Behance Profile](https://www.behance.net/tinsayesimeneh)<br>
 
 - 🙋‍♂️ Want to Collaborate? [mail Me](mailto:tinsayesimeneh608@gmail.com)<br>
 
