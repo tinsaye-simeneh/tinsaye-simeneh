@@ -2,9 +2,7 @@
 <h3 align="center">Frontend Web Developer & UI/UX Designer</h3>
 
 ## 🌐 About me:
-<p> I’m a Frontend Web Developer, UI/UX Designer and Engineering Stundet.
-I'm passionate about creating a Good and trusted UI product. I
-I'm open to collaborate. Feel free to reach me out. 
+<p> I’m a passionate Frontend Web Developer, UI/UX Designer and Engineering Student. I'm open to collaborate. Feel free to reach me out. 
 </p>
 
 - 👨‍💻 All of my Coding projects are available at My [Github Profile](https://github.com/tinsaye-simeneh)<br>
