@@ -11,6 +11,8 @@
 
 - 🙋‍♂️ Want to Collaborate? [mail Me](mailto:tinsayesimeneh608@gmail.com)<br>
 
+- 📄 Speak with My experience [My Resume](https://docs.google.com/document/d/1tirjgC8zwwyTr3W4MDJl8XVTRcaov6MAPgRTD2S-Jyc/edit?usp=sharing)<br>
+
 ## 🌐 Social Presence:
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/tinsayesimeneh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tinsayesimeneh)
