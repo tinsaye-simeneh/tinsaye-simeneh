@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my Coding projects are available at My [Github Profile](https://github.com/tinsaye-simeneh)<br>
 
-- 👜 Some of My UI/UX Designing projects are available at My [Behance Profile](https://www.behance.net/tinsayesimeneh)<br>
+- 👜 Some of UI/UX Designing projects are available at My [Behance Profile](https://www.behance.net/tinsayesimeneh)<br>
 
 - 🙋‍♂️ Want to Collaborate? [mail Me](mailto:tinsayesimeneh608@gmail.com)<br>
 
