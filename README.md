@@ -4,8 +4,6 @@
 ## 🌐 About me:
 <p>
 
-Greetings! My name is Tinsaye Simeneh and I'm a Frontend developer with a lot experience and knowledge on UI/UX. 
-
 I specialize in helping people with their web development projects. I can offer guidance on techniques for creating websites, coding for different platforms and languages, troubleshooting technical issues, and providing valuable advice on performance optimization. I'm also here to help you with any other questions or concerns you may have. Let me know if there's anything else I can do for you.
 
 </p>
