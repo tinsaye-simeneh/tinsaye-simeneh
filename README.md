@@ -28,9 +28,9 @@ Versatile web developer and adept UI/UX designer currently navigating the realms
 
 
 # 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tinsaye-simeneh&show_icons=true&locale=en&layout=compact" alt="tinsaye-simeneh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tinsaye-simeneh&show_icons=true&theme=dark&locale=en&layout=compact" alt="tinsaye-simeneh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tinsaye-simeneh&show_icons=true&locale=en" alt="tinsaye-simeneh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tinsaye-simeneh&show_icons=true&theme=dark&locale=en" alt="tinsaye-simeneh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tinsaye-simeneh&" alt="tinsaye-simeneh" /></p>
 
