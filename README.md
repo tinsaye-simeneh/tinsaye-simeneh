@@ -19,7 +19,7 @@ Versatile web developer and adept UI/UX designer currently navigating the realms
 ## 🌐 Social Presence:
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/tinsayesimeneh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tinsayesimeneh)
-[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=telegram&logoColor=white)](https://t.me/TinsayeSimeneh)
+[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=telegram&logoColor=white)](https://t.me/TinsayeSimeneh) [![Instagram](https://img.shields.io/badge/Instagram-%230077B5.svg?logo=instagram&logoColor=white)](https://www.instagram.com/tinsa_ye_/)
 
 # 💻 Tech-Stack:
 
