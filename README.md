@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Tinsaye Simeneh </h1>
-<h3 align="center"> Web Developer & UI/UX Designer</h3>
+<h3 align="center"> Web Developer & UI/UX Designer </h3>
 
 ## 🌐 About me:
 <p>
