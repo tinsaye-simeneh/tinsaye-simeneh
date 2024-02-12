@@ -4,7 +4,7 @@
 ## 🌐 About me:
 <p>
   
-Versatile web developer and adept UI/UX designer currently navigating the realms of electro-mechanical engineering as a 4th-year student at Addis Ababa Science and Technology University. Over 3-4 years, I've successfully contributed my skills to over 20 websites, showcasing a diverse portfolio. Experienced leader and development coach, I've led over 3 teams with a focus on fostering growth and collaboration. My ability to seamlessly blend technical prowess with a keen eye for design aesthetics, coupled with leadership experience, sets me apart. Eager to leverage my education and multifaceted skills in creating innovative and user-centric digital experiences.
+Versatile web developer and adept UI/UX designer currently navigating the realms of electro-mechanical engineering as a student at Addis Ababa Science and Technology University. Over 3-4 years, I've successfully contributed my skills to over 20 websites, showcasing a diverse portfolio. Experienced leader and development coach, I've led over 3 teams with a focus on fostering growth and collaboration. My ability to seamlessly blend technical prowess with a keen eye for design aesthetics, coupled with leadership experience, sets me apart. Eager to leverage my education and multifaceted skills in creating innovative and user-centric digital experiences.
 
 </p>
 
