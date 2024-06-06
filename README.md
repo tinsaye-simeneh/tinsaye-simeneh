@@ -1,4 +1,4 @@
-<h1 align="center"> Hey 👋, I'm Tinsaye Simeneh </h1>
+<h1 align="center">Hey 👋, I'm Tinsaye Simeneh </h1>
 <h3 align="center"> Web Developer &  Designer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tinsaye-simeneh&label=Profile%20views&color=0e75b6&style=flat" alt="tinsaye-simeneh" /> </p>
