@@ -28,6 +28,7 @@ Versatile web developer and adept UI/UX designer currently navigating the realms
 
 
 # 📊 GitHub Stats:
+[![Tinsaye's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tinsaye-simeneh&theme=dracula)](https://github.com/tinsaye-simeneh/github-readme-activity-graph)
 ![](https://github-readme-stats.vercel.app/api?username=tinsaye-simeneh&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tinsaye-simeneh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tinsaye-simeneh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
