@@ -26,9 +26,6 @@ As a team leader, I’ve delivered projects on time through collaboration and at
 # 💻 Tech-Stack:
 
 <div align="left">
-    <a href="https://appwrite.io" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="Appwrite" width="40" height="40"/>
-    </a>
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
     </a>
@@ -44,9 +41,6 @@ As a team leader, I’ve delivered projects on time through collaboration and at
     <a href="https://www.reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
     </a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-icon.svg" alt="Next.js" width="40" height="40"/>
-    </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
     </a>
@@ -56,9 +50,6 @@ As a team leader, I’ve delivered projects on time through collaboration and at
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
     </a>
-    <a href="https://mantine.dev/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/mantinedev/mantine/master/mantine.svg" alt="Mantine" width="40" height="40"/>
-    </a>
     <a href="https://mui.com/" target="_blank" rel="noreferrer">
         <img src="https://mui.com/static/logo.png" alt="Material UI" width="40" height="40"/>
     </a>
@@ -67,7 +58,7 @@ As a team leader, I’ve delivered projects on time through collaboration and at
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tinsaye-simeneh&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=tinsaye-simeneh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tinsaye-simeneh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tinsaye-simeneh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
