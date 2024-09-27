@@ -36,7 +36,7 @@ As a team leader, I’ve delivered projects on time through collaboration and at
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
     </a>
    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-icon.svg" alt="Next.js" width="40" height="40"/>
+        Next.js
     </a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>    
@@ -47,14 +47,13 @@ As a team leader, I’ve delivered projects on time through collaboration and at
      <a href="https://mui.com/" target="_blank" rel="noreferrer">
         <img src="https://mui.com/static/logo.png" alt="Material UI" width="40" height="40"/>
     </a>
+    <a href="https://mantine.dev/" target="_blank" rel="noreferrer">
+        Mantine UI
+    </a>
     <a href="https://supabase.io/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="40" height="40"/>
     </a>
-      <a href="https://mantine.dev/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/mantinedev/mantine/master/mantine.svg" alt="Mantine" width="40" height="40"/>
-    </a>
-    <a href="https://axios-http.com/" target="_blank" rel="noreferrer">
-        <img src="https://axios-http.com/logo.svg" alt="Axios" width="40" height="40"/>
+    <a href="https://axios-http.com/" target="_blank" rel="noreferrer">Axios
     </a>
     <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux" width="40" height="40"/>
