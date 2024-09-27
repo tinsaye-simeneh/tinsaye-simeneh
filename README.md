@@ -5,7 +5,7 @@
 
 ## 🌐 About me:
 <p>
-Hi, I’m Tinsaye Simeneh, a web developer and UI/UX designer with 3+ years of experience. I’ve built 30+ websites, focusing on seamless, user-centric experiences. My stack includes React.js, Next.js, TypeScript, JavaScript, Supabase, and Tailwind CSS, along with Bootstrap, Mantine, and Material UI for styling.
+Hi, I’m Tinsaye Simeneh, a web developer and UI/UX designer with 4+ years of experience. I’ve built 30+ websites, focusing on seamless, user-centric experiences. My stack includes React.js, Next.js, TypeScript, JavaScript, Supabase, and Tailwind CSS, along with Bootstrap, Mantine, and Material UI for styling.
 
 As a team leader, I’ve delivered projects on time through collaboration and attention to detail. Check out my work at [GitHub](https://github.com/tinsaye-simeneh), or let's connect for your next project!
 </p>
