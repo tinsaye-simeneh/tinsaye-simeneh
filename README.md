@@ -1,7 +1,7 @@
 <h1 align="center">Welcome 👋, I'm Tinsaye Simeneh </h1>
 <h3 align="center"> Web Developer &  Designer with 4+ years of experience and built 30+ websites </h3>
 
-My stack includes React.js, Next.js, TypeScript, JavaScript, Supabase, and Tailwind CSS, along with Bootstrap, Mantine, and Material UI for styling.
+My stack includes React.js, Next.js, TypeScript, JavaScript, Supabase, and Tailwind CSS, along with Bootstrap, Mantine, Chakra and Material UI for styling.
 </p>
 
 - 👨‍💻 All of my Coding projects are available at My [Github Profile](https://github.com/tinsaye-simeneh)<br>
