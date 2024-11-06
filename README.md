@@ -27,7 +27,7 @@
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">, Typescript
     </a>
    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        Next.js
+        , Next.js
     </a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">, Tailwind CSS
     </a>
@@ -36,11 +36,11 @@
      <a href="https://mui.com/" target="_blank" rel="noreferrer">, Material UI
     </a>
     <a href="https://mantine.dev/" target="_blank" rel="noreferrer">
-        Mantine UI
+        , Mantine UI
     </a>
     <a href="https://supabase.io/" target="_blank" rel="noreferrer">, Supabase
     </a>
-    <a href="https://axios-http.com/" target="_blank" rel="noreferrer">Axios
+    <a href="https://axios-http.com/" target="_blank" rel="noreferrer">, Axios
     </a>
     <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
         , RTK
