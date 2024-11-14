@@ -1,4 +1,3 @@
-<h1 align="center">Welcome 👋, I'm Tinsaye S. Dessie </h1>
 <h3 align="center"> 30+ sites, 3-4 year of experience </h3>
 
 </p>
