@@ -3,11 +3,11 @@
 
 </p>
 
-- 👨‍💻 All of my Coding projects are available at My [Github Profile](https://github.com/tinsaye-simeneh)<br>
+- 👨‍💻 Find my Coding projects here: [Github Profile](https://github.com/tinsaye-simeneh)<br>
 
-- 👜 Some of UI/UX Designing projects are available at My [Behance Profile](https://www.behance.net/tinsayesimeneh)<br>
+- 👜 Designing projects are available at [Behance Profile](https://www.behance.net/tinsayesimeneh)<br>
 
-- 🙋‍♂️ Want to Collaborate? [mail Me](mailto:tinsayesimeneh608@gmail.com)<br>
+- 🙋‍♂️ Wanna to Collaborate? [mail Me](mailto:tinsayesimeneh608@gmail.com)<br>
 
 - 📄 Speak with My experience [My Resume](https://docs.google.com/document/d/1tirjgC8zwwyTr3W4MDJl8XVTRcaov6MAPgRTD2S-Jyc/edit?usp=sharing)<br>
 
