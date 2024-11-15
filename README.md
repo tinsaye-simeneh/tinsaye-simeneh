@@ -1,6 +1,6 @@
 <h1 align="center"> Hey, I'm Tinsaye S. Dessie</h1>
 
-<h3 align="center"> Web Developer and Designer with 30+ sites, 4 year of experience </h3>
+<h3 align="center"> Web Developer and Designer with 30+ sites, 4+ years of experience </h3>
 
 </p>
 
