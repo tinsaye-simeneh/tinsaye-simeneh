@@ -1,6 +1,6 @@
-<h1 align="center"> Hey, I'm Tinsaye Simeneh Dessie</h1>
+<h1 align="center"> Hey 👋</h1>
 
-<h3 align="center">Web Developer & Designer with 30+ live sites, 4 years of experience </h3>
+<h3 align="center">Web Developer & Designer 4+ years of experience </h3>
 
 </p>
 
@@ -22,7 +22,7 @@
 <div align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
        JS
-    </a>
+    </a> |
     <a href="https://www.reactjs.org/" target="_blank" rel="noreferrer">, React.js
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">, Typescript
