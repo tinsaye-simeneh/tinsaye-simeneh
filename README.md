@@ -1,6 +1,6 @@
-<h1 align="center"> Hey 👋</h1>
+<h1 align="center"> Hey, Welcome 👋</h1>
 
-<h3 align="center">Web Developer & Designer 4+ years of experience </h3>
+<h3 align="center">Web Developer & Designer</h3>
 
 </p>
 
