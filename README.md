@@ -1,56 +1,34 @@
-<h1 align="center"> Hey, Welcome 👋</h1>
+<h1 align="center">👋 Hi, I'm Tinsaye Simeneh</h1>  
+<h3 align="center">Full-Stack Web Developer | UI/UX Designer</h3>  
 
-<h3 align="center">Web Developer & Designer</h3>
+---
 
-</p>
+🔹 **5+ years of experience** building scalable, user-focused web applications and SaaS platforms  
+🔹 **25+ websites delivered** with modern frameworks and design systems  
+🔹 **Cross-skilled in development & design**, bridging functionality and aesthetics  
 
-- 👨‍💻 Find my Coding projects here: [Github Profile](https://github.com/tinsaye-simeneh)<br>
+---
 
-- 👜 Designing projects are available at [Behance Profile](https://www.behance.net/tinsayesimeneh)<br>
+## 📌 Featured Work  
+- 🚀 **SaaS Platforms**: [Jiret](https://jiret.com), Guzo SMS, and more  
+- 🎨 **UI/UX Projects**: [Behance Portfolio](https://www.behance.net/tinsayesimeneh)  
+- 💻 **Code & Projects**: [GitHub Repos](https://github.com/tinsaye-simeneh)  
 
-- 🙋‍♂️ Wanna to Collaborate? [mail Me](mailto:tinsayesimeneh608@gmail.com)<br>
+---
 
-- 📄 Speak with My experience [My Resume](https://docs.google.com/document/d/1tirjgC8zwwyTr3W4MDJl8XVTRcaov6MAPgRTD2S-Jyc/edit?usp=sharing)<br>
+## 💼 Connect with Me  
+- 📄 [View Resume](https://docs.google.com/document/d/1tirjgC8zwwyTr3W4MDJl8XVTRcaov6MAPgRTD2S-Jyc/edit?usp=sharing)  
+- 📧 [Email Me](mailto:tinsayesimeneh608@gmail.com)  
+- 🌐 [LinkedIn](https://linkedin.com/in/tinsayesimeneh) | [Telegram](https://t.me/TinsayeSimeneh) | [Behance](https://behance.net/tinsayesimeneh)  
 
-## 🌐 Social Presence:
+---
 
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/tinsayesimeneh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tinsayesimeneh)
-[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=telegram&logoColor=white)](https://t.me/TinsayeSimeneh) 
+## ⚡ Tech Stack  
+**Frontend**: JavaScript, TypeScript, React, Next.js, Redux/RTK, Zustand  
+**UI/UX**: Tailwind, MUI, Mantine, Shadcn UI, Bootstrap, Zod, React-Hook-Form  
+**Backend/Tools**: Supabase, Axios, REST APIs, Git, Agile  
 
-# 💻 Tech-Stack:
+---
 
-<div align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-       JS
-    </a>  |
-    <a href="https://www.reactjs.org/" target="_blank" rel="noreferrer"> React.js
-    </a> | 
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> Typescript
-    </a> | 
-   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        Next.js
-    </a> | 
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> Tailwind CSS
-    </a> | 
-      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> Bootstrap
-    </a> | 
-     <a href="https://mui.com/" target="_blank" rel="noreferrer"> Material UI
-    </a> | 
-    <a href="https://mantine.dev/" target="_blank" rel="noreferrer">
-        Mantine UI
-    </a> | 
-    <a href="https://supabase.io/" target="_blank" rel="noreferrer"> Supabase
-    </a> | 
-    <a href="https://axios-http.com/" target="_blank" rel="noreferrer"> Axios
-    </a> | 
-    <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-        Redux & RTK
-    </a> | 
-</div>
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=tinsaye-simeneh&theme=dark&hide_border=false)<br/>
-
-
+## 📊 GitHub Stats  
+![](https://github-readme-streak-stats.herokuapp.com/?user=tinsaye-simeneh&theme=dark&hide_border=false)  
