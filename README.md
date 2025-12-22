@@ -33,7 +33,6 @@ I bridge the gap between **clean design and robust engineering**, delivering sol
 
 ### 📊 Stats That Matter  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tinsaye-simeneh&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api?username=tinsaye-simeneh&show_icons=true&theme=dark&hide_border=false&count_private=true)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tinsaye-simeneh&layout=compact&theme=dark&hide_border=false)  
 
 ---
