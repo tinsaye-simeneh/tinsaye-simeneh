@@ -1,10 +1,4 @@
-<h1 align="center">👋 Tinsaye S. Dessie</h1>
-<h3 align="center">Developer</h3>  
-
----
-
-### 🚀 About Me  
-I’m a **Developer with 4+ years of experience** crafting modern, scalable, and user-centered digital products.  
+👋 I’m a **Developer with 4+ years of experience** crafting modern, scalable, and user-centered digital products.  
 
 - 💻 Delivered **30+ websites** across diverse industries  
 - 🛠️ Built and scaled **5 SaaS platforms**, including [Jiret & Muyalogy](https://jiret.com), Guzo SMS, [Specter Systems](https://portal.spectersystems.io) & Laun  
