@@ -1,7 +1,7 @@
 👋 I’m a **Developer with 4+ years of experience** crafting modern, scalable, and user-centered digital products.  
 
 - 💻 Delivered **30+ websites** across diverse industries  
-- 🛠️ Built and scaled **5 SaaS platforms**, including [Jiret & Muyalogy](https://jiret.com), Guzo SMS, [Specter Systems](https://portal.spectersystems.io) & Laun  
+- 🛠️ Built and scaled **5 SaaS platforms**
 - 🎨 Published **design projects** with thousands of views on [Behance](https://www.behance.net/tinsayesimeneh)  
 
 ### 📊 Stats That Matter  
